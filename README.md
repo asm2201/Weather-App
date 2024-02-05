@@ -1,2 +1,7 @@
 # Weather-App
-Frontend of weather app's home page created using SwiftUI. 
+This is my first SwiftUI project to implement front end of weather app's home page. <br>
+This project depicts the use of: <br>
+1. State variable
+2. Switch case
+3. ZStack, HStack, VStack
+4. SF Symbols
