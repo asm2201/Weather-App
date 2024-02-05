@@ -5,3 +5,5 @@ This project depicts the use of: <br>
 2. Switch case
 3. ZStack, HStack, VStack
 4. SF Symbols
+
+The "Change Day Time" button helps toggle between the day and night home screen.
